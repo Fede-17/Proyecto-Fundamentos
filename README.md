@@ -1,4 +1,4 @@
-# StudyHub 
+## StudyHub 
 
 **Plataforma integral para la gestión académica de estudiantes de Ingeniería de Sistemas**
 
