@@ -1,4 +1,4 @@
-# StudyHub 📚
+# StudyHub 
 
 **Plataforma integral para la gestión académica de estudiantes de Ingeniería de Sistemas**
 
@@ -82,8 +82,6 @@ Almacenamiento de usuarios, materias, eventos, notas y reseñas.
 ---
 
 ## Equipo del proyecto
-
-*(Agregar integrantes y roles aquí)*
 
 * Federico Mejía — Development
 * Valeria Gómez — Quality Assurer
