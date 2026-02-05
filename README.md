@@ -1,6 +1,6 @@
 ## StudyHub 
 
-**Plataforma integral para la gestión académica de estudiantes de Ingeniería de Sistemas**
+Plataforma integral para la gestión académica de estudiantes de Ingeniería de Sistemas
 
 ## Nombre del Proyecto
 Sistema Integral de Gestión Académica Universitaria
