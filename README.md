@@ -2,6 +2,9 @@
 
 **Plataforma integral para la gestión académica de estudiantes de Ingeniería de Sistemas**
 
+## Nombre del Proyecto
+Sistema Integral de Gestión Académica Universitaria
+
 ##  Descripción del proyecto
 
 **StudyHub** es una aplicación diseñada para centralizar herramientas académicas que los estudiantes universitarios utilizan diariamente. El proyecto surge ante la necesidad de contar con un espacio único donde se pueda organizar información académica, realizar seguimiento al rendimiento y gestionar actividades importantes sin depender de múltiples aplicaciones externas.
